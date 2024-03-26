@@ -4,7 +4,7 @@ from PyQt5.QtGui import *
 import serial
 import time 
 import sys 
-import numpy as np  # Ekledim, numpy kütüphanesini import ettim.
+import numpy as np  
 
 index_sozlugu = {"9": 1, "8": 0}
 
